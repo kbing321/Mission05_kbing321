@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mission04_kbing321", "Mission04_kbing321\Mission04_kbing321.csproj", "{8F79E2F3-7AE3-4805-8513-B6DF295E578C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F79E2F3-7AE3-4805-8513-B6DF295E578C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F79E2F3-7AE3-4805-8513-B6DF295E578C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F79E2F3-7AE3-4805-8513-B6DF295E578C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F79E2F3-7AE3-4805-8513-B6DF295E578C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F965E06-4CCD-41FF-993A-64AA07DBF919}
+	EndGlobalSection
+EndGlobal
