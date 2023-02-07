@@ -6,7 +6,7 @@
         + (parseFloat($("#quiz").val()) * .1)
         + (parseFloat($("#midterm").val()) * .1)
         + (parseFloat($("#final").val()) * .1)
-        + (parseFloat($("#intex").val()) * .1)) * 100) / 100
+            + (parseFloat($("#intex").val()) * .1)) * 100) / 100
 
     // determine letter grade based on total
     if (total >= 94) {

@@ -33,7 +33,7 @@ namespace Mission05_kbing321
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Blah}/{action=index}/{id?}"
+                    pattern: "{controller=Blah}/{action=Index}/{id?}"
                 );
             });
         }
