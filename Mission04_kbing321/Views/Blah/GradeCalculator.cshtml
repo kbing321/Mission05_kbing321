@@ -1,0 +1,26 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<!--form for grade calculator-->
+<h3><u>Grade Calculator</u></h3>
+<h5>(Enter a percentage in each field, i.e. 96.33)</h5>
+<form>
+    <label>Assignments:</label>
+    <input id="assignment" type="number" /> <br /><br />
+    <label>Group Projects:</label>
+    <input id="project" type="number" /> <br /><br />
+    <label>Quizzes:</label>
+    <input id="quiz" type="number" /> <br /><br />
+    <label>Midterm Exam:</label>
+    <input id="midterm" type="number" /> <br /><br />
+    <label>Final Exam:</label>
+    <input id="final" type="number" /> <br /><br />
+    <label>INTEX:</label>
+    <input id="intex" type="number" /> <br /><br />
+    <label>Final Grade:</label>
+    <input type="text" readonly id="percent" /> <br /><br />
+    <input class="button" id="calculate" type="button" value="Calculate Final Grade" /> <br /><br />
+</form>
